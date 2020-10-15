@@ -1,0 +1,40 @@
+Picker and Poser Instructions
+
+
+
+Installation:
+	- If Maya is open, close it.	
+	- Execute the file "Mery_Shelf_****.exe" inside of the rar file.
+
+
+
+Picker Instructions:
+
+	- In the shelf "Mery" inside Maya, click the button "PKR" (Picker).
+
+	- To use the Picker with the character, you need write into the field "Character" the name of your character. What is the name of the character? Select a curve and copy the part before “_ac_***”.
+For example: Mery_ac_**** <---- in this example just copy/paste “Mery”.
+If you have any prefixes after importing or referencing the scene, you will need to add them aswell.
+For example: Mery:Mery_ac_**** <---- in this case you will need to go for “Mery:Mery”.
+
+	- Now you can use all the options of the picker.
+
+
+NOTE: If while opening the script you get the error "Non camera object...", don’t worry. This won't affect your work.
+
+
+
+Poser Instructions:
+
+	- In the shelf "Mery" inside Maya, click the button "PSR" (Poser).
+
+	- If this is the firt time you open the script, the PSR windows is empty. To start using, you need to create a new tab for saving the poses. Go to Tabs --> Crate New Tab.
+
+	- For create one pose inside of tab, go to Poses --> Create New Pose. In this window you need place the viewer on the character with the pose, indicate the name of the pose, the tab where you want to place the pose, select the animation curves of the pose and click the button "Save".
+
+	- For use the poses, the first thing is to put the name of the character in the field "Character". What is the name of the character? Select a curve and copy the part before “_ac_***”.
+For example: Mery_ac_**** <---- in this example just copy/paste “Mery”.
+If you have any prefixes after importing or referencing the scene you will need to add them aswell.
+For example: Mery:Mery_ac_**** <---- in this case you will need to go for “Mery:Mery”.
+
+	- For using the slider of the pose, you always have to press first the triangle at the end of the slider. Now you can use the slider to apply a percentage of the pose.

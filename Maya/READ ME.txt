@@ -1,0 +1,98 @@
+This Rig was made in Maya 2014. So it might be incompatible with older versions of the software.
+
+I made it a long time ago, and I already forgot how a lot of this stuff works, so please bear with me.
+
+
+________________________Plugins________________________
+
+
+I used a few external plugins to make this rig, but everything 
+should work just fine without any of them installed. 
+
+
+Shapes - http://www.braverabbit.com/shapes/
+This is a great plugin that manages and helps you create corrective 
+blend shapes for you model. I recommend getting this one if you want 
+to edit or export the blend shapes.
+
+
+quadrupedRigger - http://www.braverabbit.com/quadrupedrigger/
+A plugin for rigging quadruped animals, works best with basic characters. 
+It gave me a lot of problems with joint deformation, so I never used it 
+again. If you're looking for a good maya auto-rigger plugin, checkout Rapid Rig: 
+https://www.creativecrash.com/maya/script/-rapid-rig-modular-procedural-auto-rig-for-maya
+
+
+AnimSchool Picker - https://www.animschool.com/pickerInfo.aspx
+This is a selection GUI for maya, it helps you organize and select the character controls.
+It makes the animation process a lot easier.
+
+
+
+________________________Tips________________________
+
+
+Geometry
+This model is actually low poly, I made it like this to work with Maya's mesh smoothing. 
+You can select any object and hit 1 or 3 on the keyboard to switch between the two.
+
+
+Controls
+You can show or hide all the different controls by selecting the main_ctrl.
+I prefer to leave everything hidden and just use the Picker.
+
+
+Expressions
+They fix some issues with the body and drive most of the controls on the face.
+I was still learning the basics of maya when I wrote these expressions, so a bunch of stuff could have 
+been optimized. If you're planning on exporting this to another software, you're probably 
+better off rewriting everything from scratch.
+
+
+Hair
+You have the option to animate the hair manually or switch to a dynamic simulation with nHair. 
+There's a separate hair system for the mane, the tail and the eyelashes. nucleus is disabled by default.
+You can find everything inside the HairSystem group in the outliner.
+Switch between manual and dynamic by selecting these controls:
+FS_cc_FrontMane_A_01
+FS_cc_SideMane_A_01
+FS_cc_Tail_A_01
+nDynamics can get pretty buggy, so I wouldn't recommend using it unless you know what you're doing.
+
+If you want to learn more about this hair rig, watch this tutorial: https://vimeo.com/8240821
+
+
+Rendering
+Everything is set to the default settings. 
+But if you're interested in the method I use, it's just Mental Ray and Image Based Lighting 
+with this background http://mlp.wikia.com/wiki/File:AiP_Ponyvillehouses.png as an environment map.
+
+
+
+________________________Bugs and Issues________________________
+
+
+Limited leg movement
+So after I used the quadrupedRigger plugin to create the skeleton, I learned that the rotation 
+of the joints was very limited, if they rotate too much they end up flipping. I tried fixing it 
+with expressions and corrective blend shapes, but it's still kinda of broken. 
+So be careful with the movement of the legs.
+
+
+Joints Flipping/Not Moving Properly
+just move the main_ctrl and undo to bring the leg back to normal. 
+
+
+Wings
+The wings are fully rigged, but they don't fold up properly, you can select the 
+FS_cc_Wing_A control to toggle between open and closed.
+
+
+There are probably more issues...
+But I'm really struggling to remember, sorry guys :( 
+Hopefully someone out there will learn from my mistakes and build a better rig ;)
+
+
+If you animate something cool send me a link, I'd love to see it!
+https://twitter.com/2Snacks
+
