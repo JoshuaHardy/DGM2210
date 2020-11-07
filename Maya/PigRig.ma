@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: PigRig.ma
-//Last modified: Fri, Nov 06, 2020 08:12:14 PM
+//Last modified: Fri, Nov 06, 2020 08:17:35 PM
 //Codeset: 1252
 requires maya "2018";
 requires "stereoCamera" "10.0";
@@ -18,13 +18,13 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "5A9E8923-0944-FC19-0295-15BFE8A80273";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -89.656645555814876 26.07734348828016 28.751358291984584 ;
+	setAttr ".t" -type "double3" -56.453496361301724 22.556901845219976 17.577264049335547 ;
 	setAttr ".r" -type "double3" -5.7383527301874686 -1151.3999999999151 360.00000000010084 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "7391D9D9-7B49-CE7B-B52C-6D9D38701DEA";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999986;
-	setAttr ".coi" 99.35266118300494;
+	setAttr ".coi" 64.14324471611512;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
