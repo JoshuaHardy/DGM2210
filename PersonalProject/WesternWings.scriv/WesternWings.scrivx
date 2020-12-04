@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="DESKTOP-PTNA5DD" Modified="2020-12-03 23:56:24 -0700" ModID="BCD46FA0-3CDD-48E6-A1DB-BE190A377EF6">
+    <Binder>
+        <BinderItem ID="1" UUID="6EEDBE73-E683-49BD-8418-AD65DB30E817" Created="2020-12-03 23:41:51 -0700" Modified="2020-12-03 23:41:51 -0700" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" UUID="1E59A027-1394-4230-BE90-BDA3EFC34BC8" Created="2020-12-03 23:44:11 -0700" Modified="2020-12-03 23:44:57 -0700" Type="Folder">
+                    <Title>Character Ideas.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" UUID="ADAD9EFE-712A-4DCE-BC69-E6263C80CA1C" Created="2020-12-03 23:48:08 -0700" Modified="2020-12-03 23:53:44 -0700" Type="Folder">
+                    <Title>Creature Ideas</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="7" UUID="2F031AB8-4C6E-49E6-A8AF-4F7DEA783375" Created="2020-12-03 23:48:19 -0700" Modified="2020-12-03 23:48:29 -0700" Type="Text">
+                            <Title>Pegasi</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="8" UUID="A8002CC9-7727-447F-A838-C8E7CBEC1D9D" Created="2020-12-03 23:48:31 -0700" Modified="2020-12-03 23:49:31 -0700" Type="Text">
+                            <Title>Buzzer Burrow</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="9" UUID="20C19759-11A2-45B2-8034-7263A0F2ED10" Created="2020-12-03 23:48:37 -0700" Modified="2020-12-03 23:49:20 -0700" Type="Text">
+                            <Title>Coal Wyrum</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="10" UUID="1BBA79A1-F716-4CE3-A1EC-CAF63700FDCB" Created="2020-12-03 23:49:33 -0700" Modified="2020-12-03 23:50:00 -0700" Type="Text">
+                            <Title>Carriondale</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="11" UUID="5E9BBB31-4FCE-4EC9-9325-A717AABD33C5" Created="2020-12-03 23:50:12 -0700" Modified="2020-12-03 23:52:04 -0700" Type="Folder">
+                    <Title>Setting</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="12" UUID="03E728BC-1FC6-41FF-920F-F01EF183185D" Created="2020-12-03 23:52:11 -0700" Modified="2020-12-03 23:52:16 -0700" Type="Text">
+                            <Title>Red Rock Desert</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="13" UUID="BAEBDB04-5BB3-468D-8664-BF0B097824B9" Created="2020-12-03 23:52:19 -0700" Modified="2020-12-03 23:52:26 -0700" Type="Text">
+                            <Title>Saloon mining towns</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="14" UUID="52660C1C-253A-494E-91E6-4E202B0D5ECE" Created="2020-12-03 23:52:30 -0700" Modified="2020-12-03 23:52:34 -0700" Type="Text">
+                            <Title>Train depot</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="15" UUID="F5149711-731A-4C94-86F0-2726011DD3AF" Created="2020-12-03 23:52:38 -0700" Modified="2020-12-03 23:52:50 -0700" Type="Text">
+                            <Title>Craggy cliffs</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="16" UUID="8EF65040-0F79-4390-99DD-8609F61FA11D" Created="2020-12-03 23:52:51 -0700" Modified="2020-12-03 23:53:05 -0700" Type="Text">
+                            <Title>Timed Gizers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="17" UUID="A1B5E450-34F4-408E-A6E3-57F1B863C42C" Created="2020-12-03 23:53:50 -0700" Modified="2020-12-03 23:54:04 -0700" Type="Folder">
+                    <Title>Factions and Organizations</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="18" UUID="9DE5BBCA-CD16-4CA0-A4C8-F9B49D84CB83" Created="2020-12-03 23:54:07 -0700" Modified="2020-12-03 23:54:38 -0700" Type="Folder">
+                            <Title>&quot;The Academy&quot;</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="19" UUID="C9D119AF-E377-4FFC-B482-E85BFAD80256" Created="2020-12-03 23:55:02 -0700" Modified="2020-12-03 23:55:05 -0700" Type="Text">
+                            <Title>Bandits</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="20" UUID="D4A682AF-C1B0-4BA8-9249-33FF4FF99AF6" Created="2020-12-03 23:55:07 -0700" Modified="2020-12-03 23:55:09 -0700" Type="Text">
+                            <Title>Rebels</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="25" UUID="403D7C54-3620-4C92-B4FA-B026D69C6AB3" Created="2020-12-03 23:56:13 -0700" Modified="2020-12-03 23:56:17 -0700" Type="Folder">
+                    <Title>Technology</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="0" UUID="B304EEF4-FA60-4192-BC34-4634D6CF5509" Created="2020-12-03 23:41:51 -0700" Modified="2020-12-03 23:41:51 -0700" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="C9DA3834-9110-4614-AE60-2C1F71CE0146" Created="2020-12-03 23:41:51 -0700" Modified="2020-12-03 23:44:00 -0700" Type="Text">
+                    <Title>Western Wings</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>244,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="06206408-B361-48C4-8AF3-2977796A0F32" Created="2020-12-03 23:41:51 -0700" Modified="2020-12-03 23:41:51 -0700" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="5" UUID="3CA35998-9781-4D6E-83FD-8BB3A8085832" Created="2020-12-03 23:46:27 -0700" Modified="2020-12-03 23:48:05 -0700" Type="Text">
+                    <Title>Creature Ideas</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="21" UUID="CD497ABF-8769-45DB-A936-F5F18887D2CE" Created="2020-12-03 23:55:10 -0700" Modified="2020-12-03 23:55:10 -0700" Type="Folder">
+                    <Title>Factions and Organizations-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="22" UUID="68EB6853-ABDD-40AD-8CA4-BA2981030EA3" Created="2020-12-03 23:55:10 -0700" Modified="2020-12-03 23:55:10 -0700" Type="Folder">
+                            <Title>&quot;The Academy&quot;</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="23" UUID="320CEC1E-5727-4CB0-BDD0-4E78AB528D73" Created="2020-12-03 23:55:10 -0700" Modified="2020-12-03 23:55:10 -0700" Type="Text">
+                            <Title>Bandits</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="24" UUID="CDB2E932-8E79-43B5-BEC0-97D153E1E1CF" Created="2020-12-03 23:55:10 -0700" Modified="2020-12-03 23:55:10 -0700" Type="Text">
+                            <Title>Rebels</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="34" Characters="244" Date="2020-12-03 23:41:53 -0700"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="1503CCE0-645E-4801-A599-DC073A7AC73F" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="FB7CEA18-0EC5-4BD4-85B4-62F3398C7A94" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="Letter" LeftMargin="8.39057" RightMargin="8.39057" TopMargin="8.39057" BottomMargin="8.39057" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
